@@ -22,6 +22,12 @@
 PS：需要五处
 
 ## 使用
+
 在相册中分享图片，选中 `Run Pythonista Script`，选中相应的脚本 `run` 剪贴板就会有 `MarkDown` 形式的链接
 
-PS：可以在 `Pythonista` 首页设置
+PS：可以设置图床脚本显示在 Pythonista 首页
+
+## 文档参考
+[StaSh - Shell Like an Expert in Pythonista](https://github.com/ywangd/stash)
+
+[腾讯云对象存储 SDK 文档](https://cloud.tencent.com/document/product/436/12269)
