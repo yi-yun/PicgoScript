@@ -18,4 +18,4 @@
 
 2. 输入 `pip install -U cos-python-sdk-v5` 安装环境，若报错可将 -U 去掉，之后再安装缺少的模块即可
 
-3. 下载[这个文件](https://github.com/yi-yun/PicgoScript/blob/master/ImageBed.py)，配置相应参数
+3. 下载[这个文件](https://yiyun-1253940215.cos.ap-shanghai.myqcloud.com/ImageBed.py)，配置相应参数
